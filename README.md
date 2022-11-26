@@ -1,4 +1,4 @@
 # jmaducal12.github.io
 
-title: CPE232 Managing Enterprise Servers
-description: Sample Website
+Title: CPE232 Managing Enterprise Servers
+Description: Sample Website
